@@ -1,0 +1,5 @@
+Model,Execution Time (seconds)
+Serial,7.062500
+P-thread,10.406250
+OpenMP,14.781250
+MPI,8.750000
