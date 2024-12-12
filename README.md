@@ -16,7 +16,8 @@ This project demonstrates the performance comparison of various parallelization 
 - You can also generate the datasets using the provided Python script.
 
   ## Execution Times Graph
-![execution_times_graph](https://github.com/user-attachments/assets/926c109c-d979-482d-a37f-57eabb1f813e)
+![execution_times_graph](https://github.com/user-attachments/assets/04387930-0e7a-4f8b-972b-b03ea378bd7a)
+
 
 ## Requirements
 ### Tools
